@@ -1,2 +1,2 @@
-# InfromaticaAplicada
-Clase de informatica
+# InfAplicada
+Clase de Informatica aplicada
